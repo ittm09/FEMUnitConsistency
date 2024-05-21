@@ -8,3 +8,6 @@ Most FEA analysts prefer to work within their chosen set of consistent units, su
 
 CURRENT DEVELOPEMT STAGE:
 - Initial (21 May, 2024)
+
+RESOURCES:
+https://www.endurasim.com.au/consistent-units-fea/
